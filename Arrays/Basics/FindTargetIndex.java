@@ -1,4 +1,4 @@
-package Arrays.Basics;
+
 // Pattern: Linear Search
 // Idea: Traverse the array one by one and compare each element with the target.
 // If target is found, return its index; otherwise return -1.

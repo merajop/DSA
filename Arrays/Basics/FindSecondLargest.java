@@ -1,4 +1,4 @@
-package Arrays.Basics;
+
 // Pattern: Single Traversal
 // Idea: Maintain two variables — largest and secondLargest
 // Update secondLargest whenever a new largest is found or
